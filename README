@@ -1,0 +1,15 @@
+For the record, I wrote this in a few hours (over the course of about
+a week) on a dare. I won a bottle of Johnny Walker Blue. Well, the
+bottle was also a birthday present, but I think I still managed to
+impress with the game.
+
+This code is horrible. At some point I may try to clean it up. But
+maybe not. Let this be a warning.
+
+The game is simple. It is a Pong clone. One player is the unicorn, the
+other player is the dolphin. The only really exciting parts are that
+it was designed to be controlled using DDR pads, and you can control
+how hard you hit the ball by jumping on the "left" and "right" buttons
+on the pad. So imagine a bunch of drunks on my porch stomping
+furiously on some poor dance pads and you'll understand why I have a
+warm spot in my heart for this project.

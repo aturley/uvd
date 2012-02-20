@@ -1,0 +1,63 @@
+Unicorn vs. Dolphin
+
+--
+
+Genesis
+* Wanted to throw a party
+* Picked funny pictures, sent out the invitations
+* We have a theme, now what do we do?
+* Let's have a video game!
+
+--
+
+The Party Game
+Multi-player combat, not co-op
+Fast paced
+Simply, easy to learn (easy to play drunk)
+Involving input (think Wii, Rock Band, Guitar Hero, etc)
+Sounds!
+
+--
+
+Considerations
+Two weeks to write a game
+Game will be fairly computationally simple
+Not a long term project
+Probably never look at the code again
+No time for beta period
+It either works, or it doesn't work
+Learn as you go, prototype becomes product
+I haven't written a game in years
+I haven't written any sort of graphical application in a while
+I know Python
+I have dance pads
+
+--
+
+Scotch
+* I tried Johnny Walker Blue once, enjoyed it
+* A bottle was offered if I finished the game in time for the party
+
+--
+
+Why Pygame
+* I know Python
+  * Rapid development
+  * Good mix of programming styles (OO, functional, etc)
+* Used Pygame once, years ago, to make a box move on the screen
+* Support for graphics, sound, game controllers
+* More a collection of classes than a complicated framework
+* Lots of tutorials
+
+--
+
+How Pygame
+
+--
+
+Looking Back
+* 
+
+--
+
+Questions?
